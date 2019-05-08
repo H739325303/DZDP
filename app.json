@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/ranking/ranking",
+    "pages/concern/concern",
+    "pages/me/me"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "大众点评",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "selectedColor":"#f00",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath":"./pages/images/我 的.png",
+        "selectedIconPath":"./pages/images/我 的 (1).png"
+      },
+      {
+        "pagePath": "pages/ranking/ranking",
+        "text": "排行榜",
+        "iconPath":"./pages/images/排行榜.png",
+        "selectedIconPath": "./pages/images/排行榜 (1).png"
+      },
+      {
+        "pagePath": "pages/concern/concern",
+        "text": "关注",
+        "iconPath":"./pages/images/关注.png",
+        "selectedIconPath":"./pages/images/关注 (1).png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath":"./pages/images/生活－大众点评.png",
+        "selectedIconPath":"./pages/images/生活－大众点评 (1).png"
+      }
+
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

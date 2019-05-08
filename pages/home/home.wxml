@@ -1,0 +1,14 @@
+<!--input.wxml-->
+<view class="box">
+    <text>北京﹀</text>
+    <input class="ipt" placeholder="输入商户名、地点、找优惠" />
+    <image class="" src="../images/我 的.png">
+    </image>
+</view>
+
+<view class="box1">
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>美食</text>
+    </view>
+</view>
