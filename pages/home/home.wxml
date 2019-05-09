@@ -11,4 +11,116 @@
         <image class="" src="../images/3_11.png"></image>
         <text>美食</text>
     </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>外卖</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>休闲娱乐</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>KTV</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>景点/门票</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>酒店</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>电影/演出</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>足疗/按摩</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>丽人/美发</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_11.png"></image>
+        <text>购物/商场</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_15.png"></image>
+        <text>到家服务</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_15.png"></image>
+        <text>宠物</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_15.png"></image>
+        <text>民宿/公寓</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_15.png"></image>
+        <text>亲子</text>
+    </view>
+    <view>
+        <image class="" src="../images/3_15.png"></image>
+        <text>全部</text>
+    </view>
+</view>
+
+<view class="box2">
+    <view>
+        <image class="aimg" src="../images/3_18.png"></image>
+        <text>美食热榜</text>
+    </view>
+    <view>
+        <image class="aimg" src="../images/3_15.png"></image>
+        <text>今天吃啥</text>
+    </view>
+</view>
+
+<view class="box3">
+    <image class="" src="../images/3_23.png"></image>
+</view>
+<text class="txt">猜你喜欢</text>
+
+<view class="box4">
+    <view class="left">
+        <image class="" src="../images/3_25.png">
+            
+        </image>
+    </view>
+    <view class="right">
+        <text class="txt1">原生态麻辣烫</text><text class="txt2">›100m</text>
+        <text class="txt3"> 「上地」麻辣烫一份(包含鸡蛋、金针菇、鹌鹑蛋、娃娃菜)</text>
+        <text class="txt4">￥20</text><text class="txt5">￥50</text>
+        <text class="txt6">已售1234</text>
+    </view>
+</view>
+<view class="box4">
+    <view class="left">
+        <image class="" src="../images/3_25.png">
+
+        </image>
+    </view>
+    <view class="right">
+        <text class="txt1">原生态麻辣烫</text><text class="txt2">›100m</text>
+        <text class="txt3"> 「上地」麻辣烫一份(包含鸡蛋、金针菇、鹌鹑蛋、娃娃菜)</text>
+        <text class="txt4">￥20</text><text class="txt5">￥50</text>
+        <text class="txt6">已售1234</text>
+    </view>
+</view>
+<view class="box4">
+    <view class="left">
+        <image class="" src="../images/3_25.png">
+
+        </image>
+    </view>
+    <view class="right">
+        <text class="txt1">原生态麻辣烫</text><text class="txt2">›100m</text>
+        <text class="txt3"> 「上地」麻辣烫一份(包含鸡蛋、金针菇、鹌鹑蛋、娃娃菜)</text>
+        <text class="txt4">￥20</text><text class="txt5">￥50</text>
+        <text class="txt6">已售1234</text>
+    </view>
 </view>

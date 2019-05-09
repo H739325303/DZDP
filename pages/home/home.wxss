@@ -16,3 +16,110 @@
     width: 40rpx;
     height: 40rpx;
 }
+.box1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1 view image{
+    width:100rpx;
+    height:100rpx;
+}
+.box1 view{
+    width: 20%;
+    text-align: center;
+}
+.box1 text{
+    display: inline-block;
+}
+.box1 view text{
+    font-size: 30rpx;
+}
+.box2{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40rpx;
+}
+.box2 view{
+    width: 45%;
+    height: 100rpx;
+    border-radius: 10rpx;
+    box-shadow: darkgrey 0px 0px 10rpx 2rpx;
+    border: 1px solid #f7f7f7;
+    line-height: 100rpx;
+    text-align: center;
+    justify-items: center;
+}
+.box2 view .aimg{
+    width: 60rpx;
+    height: 60rpx;
+}
+.box2 view text{
+    font-weight: 900;
+}
+.box3{
+    width: 95%;
+    margin: 30rpx auto;
+}
+.box3 image{
+    width: 100%;
+    height: 200rpx;
+}
+.txt{
+    margin-left: 20rpx;
+    color: darkgray;
+}
+.box4{
+    width: 95%;
+    height: 260rpx;
+    border-bottom: 1px solid #f7f7f7;
+    margin: 20rpx auto;
+    display: flex;
+}
+.box4 .left{
+    width: 35%;
+    height: 240rpx;
+}
+.box4 .left image{
+    width: 100%;
+    height: 100%;
+}
+.box4 .right{
+    height: 240rpx;
+    width: 65%;
+}
+.box4 .right .txt1{
+    width: 78%;
+    margin-left: 10rpx;
+    height: 20px;
+    line-height: 20rpx;
+    font-weight: 900;
+    display: inline-block;
+}
+.box4 .right .txt2{
+    display: inline-block;
+    color: darkgray;
+    font-size: 30rpx;
+}
+.box4 .right .txt3{
+    font-size: 35rpx;
+    height: 50rpx;
+    color: dimgray;
+}
+.box4 .right .txt4{
+    color: red;
+    margin-left: 10rpx;
+    font-weight: 900;
+}
+.box4 .right .txt5{
+    color: dimgray;
+    text-decoration: line-through;
+    margin-left:10rpx;
+}
+.box4 .right .txt6{
+    margin-left: 150rpx;
+    font-size: 30rpx;
+    height: 100rpx;
+    line-height: 100rpx;
+    color: darkgray;
+}
